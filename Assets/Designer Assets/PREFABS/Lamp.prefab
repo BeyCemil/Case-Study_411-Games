@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 4926459202886836314}
   - component: {fileID: 3363749128071541560}
   - component: {fileID: 2465667060435693516}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Lights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
